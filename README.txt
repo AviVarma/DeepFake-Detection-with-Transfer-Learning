@@ -27,12 +27,11 @@
 |__README.txt
 
 === DATA PREPERATION ===
-Within the submission there are 2 datasets:
+I used the Celeb-DF V2 dataset for this project, please download and use the "Pre-process.ipynb" 
+file to create the ./Celeb-DF-Image-Face-Crop/ & ./Celeb-DF-Image-Face-Crop-SRM/ datasets mentioned
+within the directory tree. (Some file path variable manipulations may be required.)
 
-=>Celeb-DF-Image-Face-Crop
-=>Celeb-DF-Image-Face-Crop-SRM
-
-Extract these so that you can execute each jupyter notebooks.
+Please read the report provided for a better insight.
 
 === EXECUTION ===
 
